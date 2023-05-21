@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     func chageBGColor() {
-
+        view.backgroundColor = .red
     }
 
 }
